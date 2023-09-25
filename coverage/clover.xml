@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695235316606" clover="3.2.0">
+  <project timestamp="1695235316606" name="All files">
+    <metrics statements="117" coveredstatements="99" conditionals="33" coveredconditionals="27" methods="40" coveredmethods="33" elements="190" coveredelements="159" complexity="0" loc="117" ncloc="117" packages="16" files="21" classes="21"/>
+    <package name="components.Day">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/Day/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="21" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Input">
+      <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/Input/index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="16" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Loading">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/Loading/index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.NextDays">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/NextDays/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.SelectList">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/SelectList/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.WeatherDetails">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/WeatherDetails/index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.WeatherItem">
+      <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/WeatherItem/index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="14" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.WeatherToday">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/components/WeatherToday/index.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="contexts">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="CityContext.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/contexts/CityContext.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="19" count="9" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="9" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="39" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="useCity.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/hooks/useCity.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="8" count="15" type="stmt"/>
+      </file>
+    </package>
+    <package name="libs.asyncStorage">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="cityStorage.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/libs/asyncStorage/cityStorage.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="9" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="routes">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="app.routes.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/routes/app.routes.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/routes/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="screens.Dashboard">
+      <metrics statements="31" coveredstatements="20" conditionals="9" coveredconditionals="7" methods="8" coveredmethods="4"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/screens/Dashboard/index.tsx">
+        <metrics statements="31" coveredstatements="20" conditionals="9" coveredconditionals="7" methods="8" coveredmethods="4"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="4" type="stmt"/>
+        <line num="55" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="69" count="4" type="cond" truecount="5" falsecount="0"/>
+        <line num="70" count="3" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="screens.Search">
+      <metrics statements="14" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/screens/Search/index.tsx">
+        <metrics statements="14" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="2"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="30" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="20" coveredstatements="19" conditionals="6" coveredconditionals="5" methods="3" coveredmethods="3"/>
+      <file name="api.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/services/api.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="getCityByNameService.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/services/getCityByNameService.ts">
+        <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+      <file name="getWeatherByCityService.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/services/getWeatherByCityService.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="71" count="4" type="stmt"/>
+        <line num="73" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="76" count="2" type="stmt"/>
+        <line num="78" count="2" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="getNextDays.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/utils/getNextDays.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="15" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="12" count="15" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+      </file>
+      <file name="isDayTime.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/utils/isDayTime.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="weatherIcons.ts" path="/Users/renan.melo/Documents/react-native/iweather-tdd/src/utils/weatherIcons.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="20" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
