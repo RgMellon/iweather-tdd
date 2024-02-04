@@ -1,5 +1,6 @@
 {
     "preset": "jest-expo",
+    "bail": true,
     "setupFilesAfterEnv": [
         "@testing-library/jest-native/extend-expect"
     ],
